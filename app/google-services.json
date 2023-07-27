@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811663023344",
+    "project_id": "digital-student-passport-43e34",
+    "storage_bucket": "digital-student-passport-43e34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811663023344:android:1d0c16eb57cdf7db713635",
+        "android_client_info": {
+          "package_name": "com.example.digitalstudentpassport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811663023344-vveh7l44mve3ooqh8lnlg17upt8ft8p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALP580nzZOa8vVTE8nP6cVZD3Y6ERD_T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811663023344-vveh7l44mve3ooqh8lnlg17upt8ft8p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
